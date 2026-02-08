@@ -26,7 +26,7 @@ with st.sidebar:
     st.markdown("---")
     option = st.selectbox(
         "Select mode",
-        options=["Home", "Settings"],
+        options=["Home", "testing"],
         index=0,
     )
 
